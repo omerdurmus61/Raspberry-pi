@@ -1,2 +1,2 @@
-# Raspberry-pi
+# Robotics
 Raspberry pi &amp; Python
