@@ -1,2 +1,2 @@
 # Robotics
-Raspberry pi &amp; Python &amp; ROS &amp;C++
+Raspberry pi &amp; Python &amp; ROS &amp; C++
